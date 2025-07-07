@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Tamilla!</h1>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tamillaaa)
+# Hi! I'm Tamilla
+![Visitor Badge](https://komarev.com/ghpvc/?username=tamillaaa)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamilla-zeynalova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamilla-zeynalova" height="30" width="40" /></a>
